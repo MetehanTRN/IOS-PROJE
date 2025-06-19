@@ -1,0 +1,1 @@
+export const PLATERECOGNIZER_TOKEN = '4c7181d98492aef6c9cf2110bbfe1d031901af93';

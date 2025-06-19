@@ -1,0 +1,4 @@
+*.apk filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+documents/videos.mp4 filter=lfs diff=lfs merge=lfs -text
+uygulama/Plaka_Tanima.apk filter=lfs diff=lfs merge=lfs -text
