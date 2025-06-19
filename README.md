@@ -9,4 +9,4 @@ Uygulamamda giriş için aşağıdaki bilgileri kullanın lütfen:
   Username: admin
   Password: 1234
 
-Proje raporumun bir örneği de proje dosyalarımın içindeki "documents" klasöründe bulabilirsiniz
+Proje raporumun bir örneği de proje dosyalarımın içindeki "documents" klasöründe bulabilirsiniz.
